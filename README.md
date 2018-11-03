@@ -10,7 +10,7 @@ Nomor 2 : Validation Form
 Nomor 3 : Mencetak deret bilangan Prima
 - Menggunakan bahasa PHP
 
-Nomor 4 : Mencari hari yang bentrok
+Nomor 4 : Mencari setiap berapa hari jadwal mengajar Pak Hasan akan bentrok
 - Menggunakan bahasa Python dan PHP (belakangan nemunya)
 
 Nomor 5 : Menghitung banyaknya sebuah karakter pada suatu string
