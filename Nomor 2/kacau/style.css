@@ -1,0 +1,19 @@
+form {
+    margin: 2em;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.4em;
+}
+
+#username {
+    width: 12em;
+    padding: 5px;
+    font-size: 1em;
+    background: #f5f5f5;
+    border: 1px solid #c0c0c0;
+}
+
+#username:focus {outline-style: none;}
