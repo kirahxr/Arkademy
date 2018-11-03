@@ -26,4 +26,4 @@ Menggunakan Bahasa HTML, PHP, Dan MySql
 Author :
 - Muhammad Risky Makira
 - SMK Negeri 1 Lhokseumawe
-Aceh, Indonesia.
+- Aceh, Indonesia.
