@@ -11,7 +11,7 @@ Nomor 3 : Mencetak deret bilangan Prima
 - Menggunakan bahasa PHP
 
 Nomor 4 : Mencari hari yang bentrok
-- Menggunakan bahasa Python
+- Menggunakan bahasa Python dan PHP (belakangan nemunya)
 
 Nomor 5 : Menghitung banyaknya sebuah karakter pada suatu string
 - Menggunakan bahasa PHP
