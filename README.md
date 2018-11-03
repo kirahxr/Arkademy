@@ -24,6 +24,6 @@ Nomor 7 : Membuat Aplikasi sederhana untuk menampilkan hasil dari Query
 
 
 Author :
-- Muhammad Risky Makira
+- Muhammad Riski Makira
 - SMK Negeri 1 Lhokseumawe
 - Aceh, Indonesia.
